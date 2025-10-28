@@ -4,65 +4,49 @@
 </h1>
 <h2> Software Engineer. </h2>
 </div>
-- Fullstack Developer with a strong focus on building scalable web applications using modern JavaScript frameworks and Python backends.
 
+- Engineering full-stack web applications with modern frameworks and best practices. Always learning, always building.
 <br>
+
+## Skills
+
+**Languages:** JavaScript, Python, HTML, CSS, SQL
+
+**Frontend:** React, Tailwind CSS, Vanilla CSS, React Router, Formik, Yup
+
+**API:** REST APIs, Django REST Framework, Axios
+
+**Backend:** Flask, Django, Node.js
+
+**Databases:** PostgreSQL, SQLite, SQLAlchemy, Supabase
+
+**Testing:** Jest, pytest, Postman
+
+**AI/ML:** TensorFlow, scikit-learn, pandas, NumPy
+
+**Other:** Git, GitHub, GitHub Actions, AWS, Render, Netlify, Click, Tabulate
+
+## Projects
+
+- [**Spacer**](https://github.com/Valentine101098/Phase-5-Group-6-Spacer) - A full stack web app for booking and managing workspaces, event spaces, and other rentable locations. Built with React, Flask, PostgreSQL, deployed on Render with GitHub Actions CI/CD.
+
+- [**Library Management**](https://github.com/Moringa-SDF-PT10/phase-4-g7-library-management-app) - Library management system allowing librarians to manage books, borrowers, and records. Users can borrow and review books. Built with React, Flask, SQLite, Formik, and Yup.
+
+- [**Learners Portal: Auth**](https://github.com/douglasgatimu/students_portal_DRF_React_JWT) - A Django REST Framework + React students' platform connecting students with instructors, curriculum info, and self-paced lessons. Features JWT authentication and Axios integration.
+
+- [**Personal Expense Tracker**](https://github.com/Moringa-SDF-PT10/expense-tracker-douglas-gatimu) - Command-line expense tracker for recording, viewing, and managing daily expenses efficiently. Built with SQLite3, SQLAlchemy, Click, and Tabulate.
+
+- [**Nawiri Students Portal**](https://github.com/Moringa-SDF-PT10/nawiri-g7) - Modern, responsive student portal built with React and Tailwind, giving students seamless access to academic resources. Integrated with Supabase and deployed on Netlify.
+
+- [**Interactive Vanilla Quiz**](https://github.com/douglasgatimu/trivia-project-vanilla) - Trivia quiz app with random questions fetched from API, providing feedback and scoring. Built with Vanilla JavaScript, CSS, and Open Trivia DB API.
 
 [![Douglas' GitHub stats](https://github-readme-stats.vercel.app/api?username=douglasgatimu)](https://github.com/douglasgatimu/github-readme-stats)
 
+## Let's Connect
 
-## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-gatimu-1966a863/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/douglasgatimu1)
 
-<h4> Languages </h4>
-<span> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+---
 
-</span>
-
-<h4> Frameworks </h4>
-<span>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC">
-  <img src="https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=for-the-badge">
-</span>
-
-<h4> Databases </h4>
-<span>
-  <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img src="https://img.shields.io/badge/sqlalchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white">
-</span>
-
-<h4> IDE </h4>
-<span>
-<img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white">
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-
-<h4> Operating System </h4>
-<span>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-</span>
-
-<h4> Other Tools and Technologies </h4>
-<span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-  <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
-</span>
+*"Valar Dohaeris."* — Jaqen H'ghar
