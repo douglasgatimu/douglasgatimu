@@ -12,7 +12,7 @@
 
 ## Skills
 
-**Languages:** JavaScript, Python, HTML, CSS, SQL
+**Languages:** JavaScript, TypeScript, Python, HTML, CSS, SQL
 
 **Frontend:** React, Tailwind CSS, Vanilla CSS, React Router, Formik, Yup
 
@@ -22,7 +22,7 @@
 
 **Databases:** PostgreSQL, SQLite, SQLAlchemy, Supabase
 
-**Testing:** Jest, pytest, Postman
+**Testing:** Jest, pytest, Postman, Playwright
 
 **AI/ML:** TensorFlow, scikit-learn, pandas, NumPy
 
