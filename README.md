@@ -8,6 +8,8 @@
 - Engineering full-stack web applications with modern frameworks and best practices. Always learning, always building.
 <br>
 
+[**My portfolio ↗**](https://douglasgatimu.sevalla.page/)
+
 ## Skills
 
 **Languages:** JavaScript, Python, HTML, CSS, SQL
@@ -39,6 +41,7 @@
 - [**Nawiri Students Portal**](https://github.com/Moringa-SDF-PT10/nawiri-g7) - Modern, responsive student portal built with React and Tailwind, giving students seamless access to academic resources. Integrated with Supabase and deployed on Netlify.
 
 - [**Interactive Vanilla Quiz**](https://github.com/douglasgatimu/trivia-project-vanilla) - Trivia quiz app with random questions fetched from API, providing feedback and scoring. Built with Vanilla JavaScript, CSS, and Open Trivia DB API.
+<br>
 
 [![Douglas' GitHub stats](https://github-readme-stats.vercel.app/api?username=douglasgatimu)](https://github.com/douglasgatimu/github-readme-stats)
 
