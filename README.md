@@ -30,9 +30,9 @@
 
 ## Projects
 
-- [**Spacer**](https://github.com/Valentine101098/Phase-5-Group-6-Spacer) - A full stack web app for booking and managing workspaces, event spaces, and other rentable locations. Built with React, Flask, PostgreSQL, deployed on Render with GitHub Actions CI/CD.
+- [**Spacer**](https://github.com/Valentine101098/Phase-5-Group-6-Spacer) - A full stack web app for booking and managing workspaces, event spaces, and other rentable locations. Built with React, Flask, PostgreSQL, deployed on Render with GitHub Actions CI/CD. [**Live URL↗**](https://phase-5-group-6-spacer-1.onrender.com/)
 
-- [**Library Management**](https://github.com/douglasgatimu/library-management-system) - Library management system allowing librarians to manage books, borrowers, and records. Users can borrow and review books. Built with React, Flask, SQLite, Formik, and Yup.
+- [**Library Management**](https://github.com/douglasgatimu/library-management-system) - Library management system allowing librarians to manage books, borrowers, and records. Users can borrow and review books. Built with React, Flask, SQLite, Formik, and Yup. [**Live URL↗**](https://library-management-system-f-3kgj.onrender.com/)
 
 - [**Learners Portal: Auth**](https://github.com/douglasgatimu/students_portal_DRF_React_JWT) - A Django REST Framework + React students' platform connecting students with instructors, curriculum info, and self-paced lessons. Features JWT authentication and Axios integration.
 
